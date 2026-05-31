@@ -1,7 +1,7 @@
 {
   "qq_number": "263589658",
   "group_number": "951068215",
-  "updated_at": "2026-05-31T05:49:28+00:00",
+  "updated_at": "2026-05-31T05:49:37+00:00",
   "skins": [
     {
       "name": "安静の混永百度327",
@@ -1568,6 +1568,12 @@
       "file": "安静の混永百度344.bds",
       "thumb": "安静の混永百度344.bds_py_26_light_thumb.png",
       "full": "安静の混永百度344.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "安静の混永百度346",
+      "file": "安静の混永百度346.bds",
+      "thumb": "安静の混永百度346.bds_py_26_light_thumb.png",
+      "full": "安静の混永百度346.bds_py_26_light_thumb.png"
     }
   ]
 }
